@@ -35,4 +35,4 @@ while cap.isOpened():
         break
     
 # 캠 파일 되는지 먼저 확인하고 이 파일의 classes 배열속에 학습시킨 class 갯수에 맞게 이름을 수정하여 실행한다.
-# 
+# 사전작업 : pip 업데이트, tensorflow 설치, opencv 설치, numpy 설치
